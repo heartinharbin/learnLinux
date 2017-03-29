@@ -1,0 +1,3 @@
+install rpm:
+	apt-get install mysql-server mysql-client
+	apt-get install libmysqlclient-dev
